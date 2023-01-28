@@ -30,14 +30,15 @@ The program takes in up to three arguments:
 Here are some examples of valid commands:
 <ul> 
  <li> <code>java -jar DXC.jar Encode "HELLO WORLD" B </code> </li>
- <li> <code>java -jar dECOde "BGDKKN VNQKC" </code> </li>
- <li> <code>java -jar DeCODe "FC/GGJ RJMG." </code> </li>
- <li> <code>java -jar encode "!!!!!!!!!!" "H" </code> </li>
+ <li> <code>java -jar DXC.jar dECOde "BGDKKN VNQKC" </code> </li>
+ <li> <code>java -jar DXC.jar DeCODe "FC/GGJ RJMG." </code> </li>
+ <li> <code>java -jar DXC.jar encode "!!!!!!!!!!" "H" </code> </li>
 </ul>
 
 Here are some examples of invalid commands:
 <ul> 
- <li> <code>java -jar encode HELLO WORLD B </code> missing quotations around HELLO WORLD </li>
- <li> <code>java -jar dECOde "bGDKKN VNQKC" </code> program executes but an exception would be thrown as offset character is not recognized </li>
- <li> <code>java -jar DeCODer "FC/GGJ RJMG." </code> unrecognized arg1 parameter </li>
+ <li> <code>java -jar DXC.jar encode HELLO WORLD B </code> missing quotations around HELLO WORLD </li>
+ <li> <code>java -jar DXC.jar dECOde "bGDKKN VNQKC" </code> program executes but an exception would be thrown as offset character is not recognized </li>
+ <li> <code>java -jar DXC.jar DeCODer "FC/GGJ RJMG." </code> unrecognized arg1 parameter </li>
+ <li> <code>java -jar DXC.jar DeCODer "FC/GGJ RJMG." B </code> too many arguments for decode command </li>
 </ul>
