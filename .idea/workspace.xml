@@ -10,22 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6126b70-ff23-4df9-a0c1-213226a0dd32" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/DXC_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DXC.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CharacterLoader/CharacterLoader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coders/Decoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coders/Encoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Coders/ReferenceTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomExceptions/DecodeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CustomExceptions/EncodeException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
